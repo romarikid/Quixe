@@ -1,0 +1,13 @@
+@font-face {
+    font-family: Bold; /* Имя шрифта */
+    src: url(Comfortaa-Bold.ttf); /* Путь к файлу со шрифтом */
+   }
+   @font-face {
+    font-family: Light; /* Имя шрифта */
+    src: url(Comfortaa-Light.ttf); /* Путь к файлу со шрифтом */
+   }
+   @font-face {
+    font-family: Medium; /* Имя шрифта */
+    src: url(Comfortaa-Medium.ttf); /* Путь к файлу со шрифтом */
+   }
+   
